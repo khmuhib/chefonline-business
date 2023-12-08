@@ -1,0 +1,79 @@
+*****************************************************	to make a website	*******************************************************************
+
+1. collect and edit all images in the media folder and request logo team to give the website logo.
+
+2. collecting information from CRM - "Task Management"
+
+3. add payment in the backoffice
+
+4. update restaurant settings in the restaurant settings -> add policy
+
+5. update details in the backoffice
+
+6. update meta in the backoffice -> theme -> settings -> theme settings
+
+7. update meta in the backoffice -> theme -> cms page list -> gallery & contact us
+
+8. update restaurant settings in the backoffice -> settings -> restaurant settings -> opening hours & reservation hours & delivery and collection & settings
+	
+	info@srsdraft.co.uk
+	chefonline@gmail.com
+	chefonline@gmail.com
+
+9. update restaurant postcode settings in the backoffice -> settings -> postcode settings
+
+10. set up offer if any offer exists ( backoffice -> marketing )
+
+11. update main logo in the assets -> img folder
+
+12. update html css
+
+13. compress the project and upload it to the server
+
+14. if logo is not given from the logo team then request the logo team to give the website png logo
+
+15. check if menu is entried or not in the portal
+
+16. request seo data with id, postcode data and site url in the new live group, if no menu is entried then tell the group there is no menu
+
+17. update seo data in the server or in local project after the data has been given
+
+
+***************************************************** to make only portal/ChefOnline live *****************************************************
+
+1. request logo in the business logo group
+2. give the logo to shajib vai
+3. backoffice -> update details -> update invoice email by copying owner email
+4. backoffice -> settings -> restaurant settings -> settings -> update primary email to info@chefonline.co.uk and order email to owner email, if reservation exists then reservation email to owner email
+5. update status -> active, submit with the account manager name
+6. update excel with the portal link in the chefonline url column
+7. done in the crm
+
+******************************************************* to make individual live ***************************************************************
+
+1. download the demo site from the srsdraft.
+2. check if the new domain is exists in the server, if don't exists then add domain. add the domain name from the crm live request -> website. add username (remove .co.uk form the domain name and add __ in the end , e.g. chaskamaska.co.uk -> chaskamaska__), generate the password, change domain subscriptions in the server (unlimited to restaurants) then ok. delete the garbage in the new domain.
+3. upload the draft site in the new domain. 
+4. upload the htaccess file in the root folder.
+5. upload constants.php and database.php in the application -> config folder.
+6. test the site from test engineer and made changes if any bug found
+7. create mail from domain. mail accounts -> create email address (Email Address and password fields only). follow the pattern given in the file.
+8. inform AM to raise a ticket to create manager app credentials
+9. update domain (without www. and ending /) and invoice email in the update details by giving the info email created just now.
+10. update primary, order and reservation(if exists) email in the backoffice -> restaurant settings by giving info email.
+11. configure hosting settings and DNS . ( first hosting -> www then no sll -> DNS -> setting ns11,ns12 -> update-> apply DNS template )
+12. done in the crm
+  
+**************************************************************** to make both red *************************************************************
+
+1. update status -> coming soon, submit with account manager name
+2. update excel with red status
+
+Kaash Indian Takeaway : (ID-2574) - kaashindiantakeaway.co.uk
+
+info@kaashindiantakeaway.co.uk - password Info@052574?
+abuse@kaashindiantakeaway.co.uk - password srs@123?
+mandrill@kaashindiantakeaway.co.uk - password srs@123?
+newsletter@kaashindiantakeaway.co.uk - password News@123
+postmaster@kaashindiantakeaway.co.uk - password srs@123?
+seo@kaashindiantakeaway.co.uk - password Seo@123!
